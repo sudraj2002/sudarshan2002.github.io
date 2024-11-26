@@ -1,2 +1,2 @@
 # Personal Website
- This is built from [Academic Pages](https://academicpages.github.io/)
+ This wesbite is built using [Academic Pages](https://academicpages.github.io/)
