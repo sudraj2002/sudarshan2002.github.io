@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/gendeg
 # excerpt: 'In this work, we explore the usage of diffusion models as a degradation synthesis pipeline for improving the generalizability of image restoration models.'
-date: 2024-27-11
+date: 2024-11-27
 venue: 'arXiv. <i>Under Review</i>'
 paperurl: 'https://sudraj2002.github.io/gendegpage/'
 ---

@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/awracle
 # excerpt: 'Visual in-context learning based image restoration'
-date: 2024-30-08
+date: 2024-08-30
 venue: 'arXiv. <i>Under Review</i>'
 paperurl: 'https://sudraj2002.github.io/awraclepage/'
 ---
