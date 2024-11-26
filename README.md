@@ -1,2 +1,2 @@
 # Personal Website
- This repository borrows heavily from [Academic Pages](https://academicpages.github.io/)
+ This is built from [Academic Pages](https://academicpages.github.io/)
