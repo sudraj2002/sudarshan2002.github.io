@@ -17,7 +17,7 @@ description              : &description "I am a second-year PhD student in the [
                                         I completed my undergraduate studies at the [Madras Institute of Technology, Anna University](). I received the [DAAD WISE]() scholarship for 
                                         an internship with [Prof. Eckehard Steinbach]() at [TUM](), Germany. I also worked with [Prof. Kaushik Mitra]() at 
                                         the [Computational Imaging Lab](), IIT Madras, on deep learning-based image restoration problems."
-url                      : https://sudarshan2002.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://sudraj2002/sudarshan2002.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sudraj2002/sudarshan2002.github.io"
 
